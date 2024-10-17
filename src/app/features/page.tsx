@@ -13,7 +13,7 @@ const Features = () => {
       className="w-full h-full pb-44 pt-20 flex flex-col gap-4 bg-slate-200 justify-center items-center overflow-x-hidden"
     >
       <h2 className="text-5xl font-bold text-center">
-        We're provide <br /> invest & business services
+        We&#39;re provide <br /> invest & business services
       </h2>
 
       {/* parent div  */}
@@ -25,7 +25,7 @@ const Features = () => {
 
           <h3 className="text-2xl font-bold">Marketing strategy</h3>
           <p className="text-center text-gray-500">
-            A marketing strategy refers to a business's overall game plan for
+            A marketing strategy refers to a business&#39;s overall game plan for
             reaching prospective consumers and turning them into customers of
             their products or services.
           </p>

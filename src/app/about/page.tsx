@@ -15,7 +15,7 @@ const About = () => {
           {/* Heading  */}
           <div className="flex justify-start -ml-40">
             <h2 className="text-5xl font-bold w-[60%] text-black/80 text-left">
-              We're Delivering Only Exceptional Quality Work
+              We&#39;re Delivering Only Exceptional Quality Work
             </h2>
           </div>
 
