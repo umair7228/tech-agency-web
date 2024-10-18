@@ -6,7 +6,7 @@ import logo from '../../../../public/logo/logo2.png'
 
 const Header = () => {
     return (
-        <header className='fixed bg-[#364a74] z-50 w-full top-0 left-0 flex justify-between px-44 items-center h-[80px]'>
+        <header className='fixed bg-[#364a74] z-50 w-full top-0 left-0 flex justify-between lg:px-28 px-44 items-center lg:h-[70px] h-[80px]'>
             <Link
                 href={'#home'}
             >
@@ -20,7 +20,7 @@ const Header = () => {
                 </div>
             </Link>
             
-            <div className='flex justify-center gap-20 text-white font-semibold'>
+            <div className='flex justify-center lg:gap-14 gap-20 text-white font-semibold'>
                 {/* home button  */}
                 <Link
                 href={'#home'}
